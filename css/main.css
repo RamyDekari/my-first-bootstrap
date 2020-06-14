@@ -1,5 +1,5 @@
 body{
-font-family: 'Luckiest Guy', cursive;
+    font-family: 'Pacifico', cursive;
 }
 
 .height{
@@ -18,7 +18,7 @@ min-height: 100vh;
    background: url(../img/business-computer-connection-contemporary-450035.jpg) center/cover no-repeat fixed; 
 }
 #filler,{
-    background:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.9)),url(../img/pexels-photo-1054218.jpeg) center/cover no-repeat fixed; 
+    background:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.9)),url(../img/pexels-photo-1054218.jpeg) center/cover no-repeat fixed ; 
 }
 #progress{
     background: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.9)),url(../img/one-world-trade-center-336594_1920.jpg) bottom/cover no-repeat fixed;
